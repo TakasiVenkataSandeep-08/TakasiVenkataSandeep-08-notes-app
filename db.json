@@ -14,5 +14,7 @@
       "userId":1
     }
   ],
-  "loggedin":1
+  "loggedin":{
+   "loggedin":false
+  }
 }
