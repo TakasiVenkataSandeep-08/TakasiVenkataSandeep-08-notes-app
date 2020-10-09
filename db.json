@@ -16,5 +16,10 @@
     ],
   "loggedin":{
    "loggedin":"false"
-    }
+    },
+  "signedup":{
+    "signedup":"false"
+  },
+  "loggedinuser":{
+  }
 }
