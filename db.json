@@ -14,7 +14,7 @@
       "userId":1
     }
   ],
-  "loggedinUser":"{}",
+  "loggedinUser":{""},
   "loggedin":"false",
   "signedup":"false"
 }
